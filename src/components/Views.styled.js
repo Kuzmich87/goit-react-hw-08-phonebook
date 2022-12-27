@@ -38,10 +38,10 @@ export const Title = styled.h1`
 export const LinkText = styled(Link)`
   /* display: block; */
   padding-top: 16px;
-  color: #1976d2;
+  color: #FFA500;
 `;
 
 export const LinkSpan = styled(Link)`
   display: inline-block;
-  color: #1976d2;
+  color: #FFA500;
 `;
